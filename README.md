@@ -182,3 +182,4 @@ $ git clone https://github.com/holbertonschool/Betty.git
 
 $ cd Betty; ./install.sh
 ```
+>>>>>>> 40e3098c10d97f1e3a5a5af3d530c15a1e9b90c7
